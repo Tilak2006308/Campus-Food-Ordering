@@ -194,4 +194,4 @@ docs/            deployment and Android-app guides, screenshots
 
 ## Author
 
-**Gadde Vardhan Sai** — designed, built and deployed end to end. [GitHub](https://github.com/Vardhansaigadde)
+**DHULI TILAK** — designed, built and deployed end to end. [GitHub](https://github.com/Tilak2006308)
